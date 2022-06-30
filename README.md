@@ -51,4 +51,4 @@
 </p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mewada-madhusudan&show_icons=true&theme=gotham" alt="mewada-madhusudan" />
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mewada-madhusudan&show_icons=true&theme=gotham" alt="mewada-madhusudan" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mewada-madhusudan&show_icons=true&theme=light" alt="mewada-madhusudan" />
